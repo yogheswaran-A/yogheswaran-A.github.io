@@ -21,7 +21,7 @@ repository               : "yogheswaran-A/yogheswaran-a.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic_png_2.png"
+  avatar           : "profile_pic.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
