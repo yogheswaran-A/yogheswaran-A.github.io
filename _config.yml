@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic2.png"
+  avatar           : "profile_pic2.jpeg"
   name             : "Your Sidebar Name"
   pronouns         : "he/him"
-  bio              : "I like to build systems which can learn and perform useful actions."
+  bio              : "Experienced Data Scientist/ML Engineer who likes to build systems that can learn and perform useful actions."
   location         : "India"
   employer         : "Unemployed - Open to Work"
   uri              : # URL
